@@ -1,0 +1,5 @@
+declare and retain
+when true
+do
+    skip
+done

@@ -1,0 +1,11 @@
+declare and retain
+    import world.wld
+    test as square;
+when your turn
+by default
+do
+    compute graal = graal
+
+    set test to graal
+    compute test = graal
+done

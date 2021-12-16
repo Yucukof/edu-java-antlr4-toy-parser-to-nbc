@@ -1,0 +1,12 @@
+declare and retain
+    arena as square[6,6];
+by default
+do
+    set arena[0,0] to player
+    set arena[0,1] to graal
+    set arena[0,2] to ennemi
+    set arena[0,3] to zombie
+    set arena[0,4] to map
+    set arena[0,5] to radio
+    set arena[2 ,2] to radar
+done

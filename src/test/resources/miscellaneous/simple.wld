@@ -1,0 +1,11 @@
+declare and retain
+  x as integer;
+  functiontest as function():void
+do
+  set x to 2
+  next use map
+done
+by default
+do
+  set x to x+1
+done

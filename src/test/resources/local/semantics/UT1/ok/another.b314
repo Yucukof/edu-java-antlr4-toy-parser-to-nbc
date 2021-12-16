@@ -1,0 +1,38 @@
+
+/* Comments are between delimiters */
+declare and retain
+ import another.wld
+    /* Global variables */
+    x as integer;
+    b as boolean;
+
+    functionTest1 as function(a as integer, z as boolean): integer
+        declare local locvariable as integer;
+                      x as integer;
+
+        do set x to x + 1
+           set locvariable to locvariable + 4
+        return locvariable
+
+    done
+
+    functionTest2 as function () : void
+            declare local functionTest1 as boolean;
+            do
+                set x to x + 1
+        done
+
+
+
+when your turn
+    /* Conditions/instructions evaluated at each turn */
+    when (x > 5) and (life < 2) do
+        next use soda
+
+    done
+
+by default do /* Default */
+    set x to x + 3
+
+    next move west
+done

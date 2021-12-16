@@ -1,0 +1,16 @@
+declare and retain
+
+    x as integer;
+
+when your turn
+
+    when x < 2 do
+        set x to 2
+    done
+
+    next move north
+
+by default do /* Default */
+    set x to x + 1
+
+done

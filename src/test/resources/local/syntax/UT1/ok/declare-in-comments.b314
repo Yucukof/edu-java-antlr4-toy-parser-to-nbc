@@ -1,0 +1,7 @@
+/* declare and retain */
+declare and retain
+by default
+do
+    /* declare and retain */
+    skip
+done

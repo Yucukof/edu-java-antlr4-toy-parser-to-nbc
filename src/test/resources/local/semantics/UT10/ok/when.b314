@@ -1,0 +1,17 @@
+/* Comments are between delimiters */
+declare and retain
+    import another.wld
+    /* Global variables */
+    x as integer;
+    b as boolean;
+when your turn
+    /* Conditions/instructions evaluated at each turn */
+    when (x > 5) and (life < 2)
+    do
+        next use soda
+    done
+
+by default do /* Default */
+    set x to x + 1
+    next move west
+done

@@ -1,0 +1,20 @@
+declare and retain
+
+    i as integer;
+    j as integer;
+
+    f as function(x as integer): void
+    declare local
+        i as integer;
+        j as integer;
+    do
+        compute 1+1
+    return void
+    done
+
+compute x
+
+by default
+do
+  compute 2+2
+done

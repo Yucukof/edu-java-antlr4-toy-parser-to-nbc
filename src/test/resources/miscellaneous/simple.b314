@@ -1,0 +1,44 @@
+declare and retain
+
+    import inputFile.wld
+
+    t as boolean;
+    res as integer;
+
+    f as function(): boolean
+    do
+        set t to true
+        /* other instructions here */
+        return t ;
+    done
+
+    facto as function(x as integer) : integer
+    do
+        if x < 0 or x = 0 then
+            set res to 1
+        else
+            set res to x * facto (x-1)
+        done
+        return res ;
+    done
+
+when your turn
+    when life < 20 do
+        next use soda
+    done
+
+    when life < 50 do
+        next use fruits
+    done
+
+    when nearby [4 ,5] = ennemi do
+        next shoot north
+    done
+
+by default /* Default */
+    declare local
+    b as boolean;           /* b is false by default */
+    do
+        set b to f()        /* b is now true */
+        next move west
+done

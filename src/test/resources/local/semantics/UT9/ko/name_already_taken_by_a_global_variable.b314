@@ -1,0 +1,18 @@
+declare and retain
+import world.wld
+x as integer;
+fonctionTest1 as integer;
+
+fonctionTest1 as function(): boolean
+    declare local locvariable as boolean;
+
+    do set locvariable to true
+    return locvariable
+ done
+
+when your turn
+
+by default do /* Default */
+    set x to x + 1
+    next move west
+done

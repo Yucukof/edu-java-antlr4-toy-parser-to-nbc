@@ -1,0 +1,3 @@
+
+/* lengths of array are not numbers */
+x as integer [a,b];

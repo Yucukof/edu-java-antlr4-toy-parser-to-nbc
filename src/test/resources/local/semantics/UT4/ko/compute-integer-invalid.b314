@@ -1,0 +1,11 @@
+declare and retain
+    import world.wld
+when your turn
+by default
+do
+    compute 1 = false
+    compute 1 - false
+    compute 1 * false
+    compute 1 / false
+    compute 1 % false
+done

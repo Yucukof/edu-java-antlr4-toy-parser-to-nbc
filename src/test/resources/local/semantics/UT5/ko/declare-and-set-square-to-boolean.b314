@@ -1,0 +1,10 @@
+declare and retain
+    import world.wld
+    test as square;
+when your turn
+by default
+do
+    set test to true
+    set test to false
+
+done

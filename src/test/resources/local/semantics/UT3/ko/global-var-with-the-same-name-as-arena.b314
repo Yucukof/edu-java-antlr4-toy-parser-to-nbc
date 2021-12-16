@@ -1,0 +1,19 @@
+declare and retain
+ import world.wld
+    /* Global variables */
+    arena as integer;
+
+
+    functionTest1 as function(a as integer, z as boolean): integer
+        declare local locvariable as integer;
+        do
+            set locvariable to locvariable + 4
+        return locvariable
+    done
+
+
+
+when your turn
+by default do /* Default */
+    next move west
+done

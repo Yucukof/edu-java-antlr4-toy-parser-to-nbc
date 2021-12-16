@@ -1,0 +1,11 @@
+declare and retain
+    import world.wld
+    x as integer;
+when your turn
+by default
+do
+    set x to true
+    while x do
+        set x to x - 1
+    done
+done

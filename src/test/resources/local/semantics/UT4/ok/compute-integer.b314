@@ -1,0 +1,39 @@
+declare and retain
+    import world.wld
+    test as integer;
+when your turn
+by default
+do
+    compute 1+1
+    compute 1-1
+    compute 1*1
+    compute 1/1
+    compute 1%1
+    compute 1=1
+
+    set test to 1
+    compute test + 1
+    compute test - 1
+    compute test * 1
+    compute test / 1
+    compute test % 1
+    compute test = 1
+
+    compute longitude
+    compute latitude
+    compute grid size
+    compute map count
+    compute radio count
+    compute ammo count
+    compute fruits count
+    compute soda count
+
+    compute 1 + longitude
+    compute 1 + latitude
+    compute 1 + grid size
+    compute 1 + map count
+    compute 1 + radio count
+    compute 1 + ammo count
+    compute 1 + fruits count
+    compute 1 + soda count
+done

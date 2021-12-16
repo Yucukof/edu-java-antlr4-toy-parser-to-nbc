@@ -1,0 +1,5 @@
+if true
+then
+  compute a+1
+  next do nothing
+done

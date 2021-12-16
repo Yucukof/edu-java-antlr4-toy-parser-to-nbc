@@ -1,0 +1,10 @@
+functionTest1 as function(functionTest1 as integer, z as boolean): integer
+        declare local locvariable as integer;
+
+                      x as integer;
+
+        do set x to x + 1
+           set locvariable to locvariable + 4
+
+        return locvariable
+    done

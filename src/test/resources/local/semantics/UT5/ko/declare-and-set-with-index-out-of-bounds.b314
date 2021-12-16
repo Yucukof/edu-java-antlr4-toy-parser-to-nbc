@@ -1,0 +1,8 @@
+declare and retain
+    import world.wld
+    test as square[2,2];
+when your turn
+by default
+do
+    set test[3,3] to soda
+done

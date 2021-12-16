@@ -1,0 +1,15 @@
+declare and retain
+    import world.wld
+    test as boolean;
+when your turn
+by default
+do
+    compute true and false
+    compute true or false
+    compute true = false
+
+    set test to false
+    compute test and false
+    compute test or false
+    compute test = false
+done

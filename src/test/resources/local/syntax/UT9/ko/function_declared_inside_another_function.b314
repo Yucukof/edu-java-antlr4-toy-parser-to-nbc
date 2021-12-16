@@ -1,0 +1,25 @@
+declare and retain
+
+x as integer;
+
+fonctionTest1 as function(): boolean
+    declare local locvariable as boolean;
+
+    do set locvariable to true
+    return locvariable
+
+            fonctionTest2 as function(): integer
+                declare local locvariable2 as integer;
+
+                do set locvariable2 to 4
+                return locvariable2
+
+             done
+ done
+
+
+
+by default do /* Default */
+    set x to x + 1
+    next move west
+done

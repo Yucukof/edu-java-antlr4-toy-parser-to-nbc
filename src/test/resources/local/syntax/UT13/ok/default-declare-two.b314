@@ -1,0 +1,6 @@
+by default
+declare local x as integer;
+              y as integer;
+do
+    skip
+done

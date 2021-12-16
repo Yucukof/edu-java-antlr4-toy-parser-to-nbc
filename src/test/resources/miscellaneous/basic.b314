@@ -1,0 +1,19 @@
+declare and retain
+    import inputFile.wld
+
+    t as boolean ;
+    f as function(): boolean
+    do
+        set t to true
+        /* other instructions here */
+        return t ;
+    done
+
+when your turn
+by default /* Default */
+    declare local
+    b as boolean;           /* b is false by default */
+    do
+        set b to f()        /* b is now true */
+        next move west
+done

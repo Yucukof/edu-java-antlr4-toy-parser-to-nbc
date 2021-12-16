@@ -1,0 +1,7 @@
+if true
+then
+  next do nothing
+else
+  compute 1+1
+  next do nothing
+done

@@ -1,0 +1,46 @@
+declare and retain
+	b1 as boolean;
+	b2 as boolean;
+	i1 as integer;
+	i2 as integer;
+	s1 as square;
+	s2 as square;
+	v1[5,7] as boolean;
+	v2[42] as integer;
+	fct2 as function (x as integer, y as boolean): INTEGER
+	do
+		skip
+		return x
+	done
+	fct3 as function (): BOOLEAN
+	do
+		skip
+		return b1
+	done
+	fct4 as function (): SQUARE
+	do
+		skip
+		return s1
+	done
+	fct5 as function (x as integer, y as boolean, z as square): INTEGER
+	do
+		skip
+		return x
+	done
+when your turn
+	when true and b1 or v1[0,i1 + 2 * 1]
+		do
+			skip
+		done
+	when false
+		do
+			skip
+		done
+	when not (GRAAL is north and i2 > 5 and v2[4] < 42 or s1 = dirt)
+		do
+			skip
+		done
+by default
+do
+	skip
+done

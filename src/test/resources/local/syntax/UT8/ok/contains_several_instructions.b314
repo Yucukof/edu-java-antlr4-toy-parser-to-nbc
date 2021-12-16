@@ -1,0 +1,4 @@
+while x > 0 do
+    set x to 1
+    set x to 4
+done

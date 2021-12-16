@@ -1,0 +1,5 @@
+by default
+declare local x as integer;
+do
+    skip
+done

@@ -1,0 +1,7 @@
+when 1
+declare local
+    x as integer;
+    y as boolean;
+do
+    skip
+done

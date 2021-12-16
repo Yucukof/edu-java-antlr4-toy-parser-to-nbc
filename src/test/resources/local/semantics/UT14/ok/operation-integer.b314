@@ -1,0 +1,19 @@
+declare and retain
+    import world.wld
+
+    int as integer;
+    bool as boolean;
+
+when your turn
+by default
+do
+    set int to 1+1
+    set int to 1-1
+    set int to 1*1
+    set int to 1/1
+    set int to 1%1
+
+    set bool to 1=1
+    set bool to 1<1
+    set bool to 2>1
+done

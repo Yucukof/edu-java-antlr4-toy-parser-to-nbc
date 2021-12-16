@@ -1,0 +1,20 @@
+declare and retain
+
+x as integer;
+
+next move north
+
+fonctionTest as function(): boolean
+
+    declare local locvariable as boolean;
+    do set locvariable to true
+    return locvariable
+
+ done
+
+
+
+by default do /* Default */
+    set x to x + 1
+    next move west
+done

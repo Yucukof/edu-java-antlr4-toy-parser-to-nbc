@@ -1,0 +1,10 @@
+/* commenting here */
+declare and retain
+/* and there */
+by /* maybe here too */ default
+do
+    /* set 1a to 2 */
+    skip
+    /* did it work ? */
+done
+/* OK good */

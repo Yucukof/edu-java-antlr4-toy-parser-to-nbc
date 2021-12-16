@@ -1,0 +1,33 @@
+declare and retain
+    x as integer;
+    i as integer;
+    j as integer;
+    arena as square[27, 27];
+by default do
+    compute 1 + 1
+    compute 2 + 2
+
+    set i to 1
+    set j to 1
+
+    set arena[1 ,1] to player
+    set arena[1 ,2] to radar
+    set arena[22 ,14] to ennemi
+    set arena[8 ,12] to zombie
+    set arena[4 ,7] to dirt
+    set arena[4 ,4] to radio
+    set arena[12 ,7] to soda
+    set arena[12 ,6] to map
+    set arena[25 ,25] to graal
+
+    next move east
+    next use soda
+
+    if 1=1 then
+        compute 1
+    done
+
+    while i > 2 do
+        compute 1+1
+    done
+done

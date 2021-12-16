@@ -1,0 +1,11 @@
+declare and retain
+import map.wld
+when your turn
+when false
+do
+    compute 1+1
+done
+by default
+do
+    compute 2+2
+done

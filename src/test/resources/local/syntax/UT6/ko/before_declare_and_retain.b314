@@ -1,0 +1,11 @@
+
+next move north
+declare and retain
+
+x as integer;
+
+
+by default do
+   set x to x + 1
+
+done

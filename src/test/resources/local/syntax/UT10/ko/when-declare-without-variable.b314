@@ -1,0 +1,5 @@
+when 1
+declare local
+do
+    skip
+done

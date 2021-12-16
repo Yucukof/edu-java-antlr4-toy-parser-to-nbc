@@ -1,0 +1,19 @@
+declare and retain
+    import world.wld
+    test as boolean;
+when your turn
+by default
+do
+    set test to dirt
+    set test to rock
+    set test to vines
+    set test to zombie
+    set test to player
+    set test to ennemi
+    set test to map
+    set test to radio
+    set test to ammo
+    set test to fruits
+    set test to soda
+    set test to graal
+done

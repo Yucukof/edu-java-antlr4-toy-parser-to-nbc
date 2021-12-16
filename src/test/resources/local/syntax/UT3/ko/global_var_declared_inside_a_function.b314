@@ -1,0 +1,8 @@
+fonctionTest as function(): integer
+
+    /* Global variable declared inside a function */
+    x as integer;
+
+    do set x to 2
+    return locvariable
+ done

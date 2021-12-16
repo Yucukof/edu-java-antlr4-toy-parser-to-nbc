@@ -1,0 +1,10 @@
+declare and retain
+    import world.wld
+    test as boolean;
+when your turn
+by default
+do
+    set test to false
+    set test to true
+    set test to true and false
+done

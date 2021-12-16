@@ -1,0 +1,16 @@
+declare and retain
+
+fonctionTest as function(): boolean
+    declare local locvariable as boolean;
+    do set locvariable to true
+    return locvariable
+ done
+
+/* Global variable declared after a function */
+
+x as integer;
+
+by default do /* Default */
+    set x to x + 1
+    next move west
+done

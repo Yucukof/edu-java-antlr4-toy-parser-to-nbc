@@ -1,0 +1,13 @@
+declare and retain
+    import world.wld
+    test as boolean;
+when your turn
+by default
+do
+    set test to true and 1
+    set test to true and graal
+    set test to true or 1
+    set test to true or graal
+    set test to true = 1
+    set test to true = graal
+done

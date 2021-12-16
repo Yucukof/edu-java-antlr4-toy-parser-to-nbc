@@ -1,0 +1,4 @@
+
+    when x < 2 do
+        next move north
+    done

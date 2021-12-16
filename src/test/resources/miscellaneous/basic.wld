@@ -1,0 +1,5 @@
+declare and retain
+    i as integer ;
+by default do
+    set i to 1
+done

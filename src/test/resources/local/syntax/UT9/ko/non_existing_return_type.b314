@@ -1,0 +1,7 @@
+
+fonctionTest as function(): bool
+    declare local locvariable as boolean;
+
+    do set locvariable to true
+    return locvariable
+ done

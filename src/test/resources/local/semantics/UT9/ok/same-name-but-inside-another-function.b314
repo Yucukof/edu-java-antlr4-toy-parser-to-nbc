@@ -1,0 +1,24 @@
+/* Comments are between delimiters */
+declare and retain
+ import world.wld
+    /* Global variables */
+    x as integer;
+
+
+    functionTest1 as function(a as integer, z as boolean): integer
+        declare local locvariable as integer;
+        do
+            set locvariable to locvariable + 4
+        return locvariable
+    done
+
+    functionTest2 as function () : void
+        declare local functionTest1 as boolean;
+        do
+            set x to x + 1
+    done
+
+when your turn
+by default do /* Default */
+    next move west
+done

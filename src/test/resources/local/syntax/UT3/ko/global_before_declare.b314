@@ -1,0 +1,12 @@
+/* global variable declared before "declare and retain" */
+
+x as integer;
+
+declare and retain
+    /* Global variables */
+
+
+by default do /* Default */
+    set x to x + 1
+    next move west
+done

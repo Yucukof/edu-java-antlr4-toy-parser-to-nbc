@@ -1,0 +1,8 @@
+functionTest1 as function(a as integer, z as boolean): void
+        declare local locvariable as integer;
+                      x as integer;
+
+        do set x to x + 1
+           set locvariable to locvariable + 4
+
+    done

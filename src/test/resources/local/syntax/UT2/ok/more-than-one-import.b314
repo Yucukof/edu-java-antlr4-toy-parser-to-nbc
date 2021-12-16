@@ -1,0 +1,10 @@
+declare and retain
+    import file1.wld
+    import file2.wld
+    i as integer;
+    s as square;
+when your turn
+by default
+    do 
+        skip
+    done

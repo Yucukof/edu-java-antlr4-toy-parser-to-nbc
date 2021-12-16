@@ -1,0 +1,9 @@
+declare and retain
+    import world.wld
+when your turn
+by default
+do
+    compute true = 1
+    compute true or 1
+    compute true and 1
+done

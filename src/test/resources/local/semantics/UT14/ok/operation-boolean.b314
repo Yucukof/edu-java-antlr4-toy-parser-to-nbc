@@ -1,0 +1,12 @@
+declare and retain
+    import world.wld
+    test1 as boolean;
+    test2 as boolean;
+    test3 as boolean;
+when your turn
+by default
+do
+    set test1 to true and false
+    set test2 to true or false
+    set test3 to false = false
+done
